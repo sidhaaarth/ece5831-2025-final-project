@@ -9,7 +9,7 @@
 * **📊 [Presentation Slides](https://docs.google.com/presentation/d/1WT0Pa9GUNRm10mRHwzGxZuGlrJIRh856/edit?usp=drive_link&ouid=104712273097745265499&rtpof=true&sd=true)**
 * **📄 [Full Technical Report](https://drive.google.com/file/d/11HKpiK0SlTDEw-ey3vPgwS5oCZF_vmtK/view?usp=sharing)**
 * **💾 [Dataset](https://drive.google.com/drive/folders/1QIxRnhG8TYsU18maZIQPwi6azJo62yi9?usp=sharing)**
-* **▶️ [Live Demo Video](INSERT_DEMO_LINK_HERE)**
+* **▶️ [Live Demo Video](https://www.youtube.com/watch?v=Ik1hmkKZDlo)**
 
 ---
 
