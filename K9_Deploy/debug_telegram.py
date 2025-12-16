@@ -1,8 +1,8 @@
 import requests
 
 # --- PASTE YOUR KEYS HERE ---
-TOKEN = "8416875842:AAFXbtva0oYzNvLQOOTprpskP6RU8xoOeGQ"   
-CHAT_ID = "1297945228"   
+TELEGRAM_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "")  
+TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "")   
 
 def test_telegram():
     print(f"🕵️ Debugging Telegram...")
