@@ -61,11 +61,7 @@ We benchmarked the system in a constrained vehicle environment using the "15W MA
 | **Accuracy (mAP)** | **0.95** | mAP@0.5 |
 | **Power Draw** | **9.8 W** | Safe for vehicle auxiliary power |
 
-## 📸 Demo
-*(Optional: Add a GIF here of the detection system in action)*
-
 ## 👥 Contributors
-* **[Your Name]** - *Lead Developer*
 * Raghu Nallapati
 * Sidharth Kalyan Ram
 
