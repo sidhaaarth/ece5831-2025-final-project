@@ -5,10 +5,10 @@
 **Real-Time Behavior Analysis for Police K9 Units using Edge AI**
 
 ### 📂 Project Resources
-* **📺 [Pre-recorded Presentation Video](INSERT_VIDEO_LINK_HERE)**
-* **📊 [Presentation Slides](INSERT_SLIDES_LINK_HERE)**
-* **📄 [Full Technical Report](INSERT_REPORT_LINK_HERE)**
-* **💾 [Dataset](INSERT_DATASET_LINK_HERE)**
+* **📺 [Pre-recorded Presentation Video](https://www.youtube.com/watch?v=KbysFqdEZc8&feature=youtu.be)**
+* **📊 [Presentation Slides](https://docs.google.com/presentation/d/1WT0Pa9GUNRm10mRHwzGxZuGlrJIRh856/edit?usp=drive_link&ouid=104712273097745265499&rtpof=true&sd=true)**
+* **📄 [Full Technical Report](https://drive.google.com/file/d/11HKpiK0SlTDEw-ey3vPgwS5oCZF_vmtK/view?usp=sharing)**
+* **💾 [Dataset](https://drive.google.com/drive/folders/1QIxRnhG8TYsU18maZIQPwi6azJo62yi9?usp=sharing)**
 * **▶️ [Live Demo Video](INSERT_DEMO_LINK_HERE)**
 
 ---
@@ -66,8 +66,7 @@ We benchmarked the system in a constrained vehicle environment using the "15W MA
 
 ## 👥 Contributors
 * **[Your Name]** - *Lead Developer*
-* [Teammate Name]
-* [Teammate Name]
+* Raghu Nallapati
+* Sidharth Kalyan Ram
 
 ---
-*For more details on the training process and mathematical formulation, please refer to the [Technical Report](INSERT_REPORT_LINK_HERE).*
